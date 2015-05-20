@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TLBB3", "TLBB3\TLBB3.vcxproj", "{6736A5C4-3CC1-41FC-B54E-E2E5BC900982}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TLBB3_DLL", "TLBB3_DLL\TLBB3_DLL.vcxproj", "{E394420E-0EA2-446E-B991-C0F8EC16D9D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6736A5C4-3CC1-41FC-B54E-E2E5BC900982}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6736A5C4-3CC1-41FC-B54E-E2E5BC900982}.Debug|Win32.Build.0 = Debug|Win32
+		{6736A5C4-3CC1-41FC-B54E-E2E5BC900982}.Release|Win32.ActiveCfg = Release|Win32
+		{6736A5C4-3CC1-41FC-B54E-E2E5BC900982}.Release|Win32.Build.0 = Release|Win32
+		{E394420E-0EA2-446E-B991-C0F8EC16D9D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E394420E-0EA2-446E-B991-C0F8EC16D9D9}.Debug|Win32.Build.0 = Debug|Win32
+		{E394420E-0EA2-446E-B991-C0F8EC16D9D9}.Release|Win32.ActiveCfg = Release|Win32
+		{E394420E-0EA2-446E-B991-C0F8EC16D9D9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
